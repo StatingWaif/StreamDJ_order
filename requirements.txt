@@ -1,0 +1,6 @@
+lxml
+requests
+pyside2
+bs4
+pyqt5
+pyqt5-tools
